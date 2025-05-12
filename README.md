@@ -26,3 +26,8 @@ It combines natural language processing (NLP) with prompt engineering using GPT 
 - OpenAI GPT-4o-mini (via API)
 - Command-line I/O (interactive CLI)
 - Logging module for debugging
+
+
+## About
+
+This module was developed as part of the same project as https://github.com/chlgulwn/CompetencyExtraction_GSSC, and focuses on the task alignment stage. While the main repository handles voice/resume-based competency extraction, this component assigns tasks based on extracted traits and meeting summaries.
